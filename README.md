@@ -3,6 +3,7 @@
 **Disciplina:** Processamento de Linguagem Natural / Inteligência Artificial  
 **Instituição:** FATEC Registro  
 **Aluno:** Lucas Gomes Fagundes
+
 **Arquivo processado:** `avaliacoes (1).xlsx` (100 avaliações)  
 **Arquivo gerado:** `resultado_classificacao.xlsx`  
 
